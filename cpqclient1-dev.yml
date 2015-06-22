@@ -1,0 +1,6 @@
+url:
+  configs: http://CPQ/configs?configId={configId}
+  mfgboms: http://CPQ/mfgboms?siteCode={siteCode}&skuNo={skuNo}&country={country}&language={language}&publishStatus={publishStatus}
+  salesboms: http://CPQ/salesboms?siteCode={siteCode}&skuNo={skuNo}&country={country}&language={language}&publishStatus={publishStatus}
+  enginecfgs: http://CPQ/enginecfgs?siteCode={siteCode}&skuNo={skuNo}&country={country}&language={language}&publishStatus={publishStatus}
+  validationcfgs: http://CPQ/validationcfgs?siteCode={siteCode}&skuNo={skuNo}&country={country}&language={language}&publishStatus={publishStatus}
